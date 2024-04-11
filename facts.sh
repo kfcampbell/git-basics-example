@@ -7,6 +7,7 @@ facts=(
 	"The state tree of Washington is the Western Hemlock."
 	"All mammals get goosebumps."
 	"Queen Alexandra's Birdwing is the largest butterfly in the world: females can reach wingspans of 28cm (11 inches)."
+    "There is a GitHub office in Bellevue, Washington."
 )
 
 # array to keep track of which facts have been viewed
