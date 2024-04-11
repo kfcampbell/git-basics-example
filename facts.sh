@@ -8,6 +8,8 @@ facts=(
 	"All mammals get goosebumps."
     "Dead skin cells are a main ingredient in household dust"
 	"Queen Alexandra's Birdwing is the largest butterfly in the world: females can reach wingspans of 28cm (11 inches)."
+  "There is a GitHub office in Bellevue, Washington."
+	"The University of Washington won the last PAC-12 football championship in 2023."
 )
 
 # array to keep track of which facts have been viewed
